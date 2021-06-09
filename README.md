@@ -13,10 +13,6 @@ How to use this program:
 ### Pre-Requirements📋
 
 Have the following libraries installed:
-_docx2txt_
-
-_os_
-
-_re_
+_docx2txt_       _os_          _re_
 
 
